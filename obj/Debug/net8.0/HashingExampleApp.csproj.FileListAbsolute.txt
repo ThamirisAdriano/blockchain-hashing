@@ -1,0 +1,14 @@
+/Users/thamirisadriano/Documents/fiap/blockchain/HashingExampleApp/bin/Debug/net8.0/HashingExampleApp
+/Users/thamirisadriano/Documents/fiap/blockchain/HashingExampleApp/bin/Debug/net8.0/HashingExampleApp.deps.json
+/Users/thamirisadriano/Documents/fiap/blockchain/HashingExampleApp/bin/Debug/net8.0/HashingExampleApp.runtimeconfig.json
+/Users/thamirisadriano/Documents/fiap/blockchain/HashingExampleApp/bin/Debug/net8.0/HashingExampleApp.dll
+/Users/thamirisadriano/Documents/fiap/blockchain/HashingExampleApp/bin/Debug/net8.0/HashingExampleApp.pdb
+/Users/thamirisadriano/Documents/fiap/blockchain/HashingExampleApp/obj/Debug/net8.0/HashingExampleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thamirisadriano/Documents/fiap/blockchain/HashingExampleApp/obj/Debug/net8.0/HashingExampleApp.AssemblyInfoInputs.cache
+/Users/thamirisadriano/Documents/fiap/blockchain/HashingExampleApp/obj/Debug/net8.0/HashingExampleApp.AssemblyInfo.cs
+/Users/thamirisadriano/Documents/fiap/blockchain/HashingExampleApp/obj/Debug/net8.0/HashingExampleApp.csproj.CoreCompileInputs.cache
+/Users/thamirisadriano/Documents/fiap/blockchain/HashingExampleApp/obj/Debug/net8.0/HashingExampleApp.dll
+/Users/thamirisadriano/Documents/fiap/blockchain/HashingExampleApp/obj/Debug/net8.0/refint/HashingExampleApp.dll
+/Users/thamirisadriano/Documents/fiap/blockchain/HashingExampleApp/obj/Debug/net8.0/HashingExampleApp.pdb
+/Users/thamirisadriano/Documents/fiap/blockchain/HashingExampleApp/obj/Debug/net8.0/HashingExampleApp.genruntimeconfig.cache
+/Users/thamirisadriano/Documents/fiap/blockchain/HashingExampleApp/obj/Debug/net8.0/ref/HashingExampleApp.dll
